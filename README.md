@@ -15,3 +15,12 @@ Weekly Journal Entries<br/>
 [Week 9: Graphical Model Structure Learning](Week 9.md)<br/>
 [Week 10: Latent Variable Models](Week 10.md)<br/>
 
+[Research Outline](ResearchOutline.md) <br/>
+[Literature Review](LiteratureReview.md) <br/>
+[Survey Design](SurveyDesign.md) <br/>
+[Data Analysis](DataAnalysis.md) <br/>
+[Research Ethics Approval](ResearchEthicsApproval.md) <br/>
+[Research Proposal](ResearchProposal.md) <br/>
+[Project Reflection](ProjectReflection.md) <br/>
+
+
