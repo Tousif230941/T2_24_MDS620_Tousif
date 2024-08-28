@@ -19,12 +19,3 @@ Here is a concise summary of the key points about the main idea, thesis statemen
 
 In summary, the main idea is the central concept, the thesis statement is the 1-2 sentence expression of that idea, and topic sentences state the main idea of each body paragraph to support the thesis. Together, they provide structure, focus and organization to an essay.
 
-Citations:
-[1] https://academicguides.waldenu.edu/reading-skills/identifying-main-idea
-[2] https://www.studysmarter.co.uk/explanations/english/summary-text/main-idea/
-[3] https://highered.mheducation.com/sites/1259024717/student_view0/writing_skills/essay_development/thesis_central_idea.html
-[4] https://www.ccis.edu/academic-resources/main-idea
-[5] https://study.com/academy/lesson/writing-main-idea-thesis-statement-topic-sentences.html
-[6] https://www.thoughtco.com/how-to-find-the-main-idea-3212047
-[7] https://www.leewayhertz.com/ai-use-cases-in-banking-and-finance/
-[8] https://www.sciencedirect.com/science/article/pii/S0148296323008536
